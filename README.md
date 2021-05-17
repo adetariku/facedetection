@@ -1,2 +1,2 @@
 # facedetection
-This is about faace detectionn
+This is about faace detection
