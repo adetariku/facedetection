@@ -1,5 +1,5 @@
 """
- FaceDetection Based on FaceNet 
+ FaceDetection Based on MTCNN
  The program reds frames a webcame, detects faces. Extract and saves the cropped faces.
  
  It also displays a faces with bounding boxes 
