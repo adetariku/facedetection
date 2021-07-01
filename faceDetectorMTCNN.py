@@ -1,6 +1,6 @@
 """
  FaceDetection Based on MTCNN
- The program reds frames a webcame, detects faces. Extract and saves the cropped faces.
+ The program reds frames from a webcam, detects faces. Extract and saves cropped faces.
  
  It also displays a faces with bounding boxes 
 
